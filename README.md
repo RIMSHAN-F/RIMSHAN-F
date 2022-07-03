@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rimshan Firdous(user: RIMSHAN-F)
 - 👀 I’m interested in exploring new language and learning new things.
 - 🌱 I’m currently learning javascripts.
-- 💞️ I’m looking to collaborate on web development(font-end)
+- 💞️ I’m looking to collaborate on web development(front-end)
 - 📫 How to reach me ? You can reach me via my email, rimshanfirdous.dev@gmail.com
 
 <!---
