@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rimshan Firdous(user: RIMSHAN-F)
-- 👀 I’m interested in exploring new language and learning new things.
-- 🌱 I’m currently learning javascripts.
-- 💞️ I’m looking to collaborate on web development(front-end)
-- 📫 How to reach me ? You can reach me via my email, rimshanfirdous.dev@gmail.com
+- 👋 Hi, I’m Rimshan Firdous.
+- 👀 I’m interested in exploring and learning ✨Computer Stuff✨
+- 🌱 I’m currently CS student who is remotely working as a Web Developer.(Mainly Front-End and some Back-End as well)
+- 💞️ I’m looking to collaborate on Web Development. 
+- 📫 How to reach me ? You can reach me via my email, rimshanfirdous.dev@gmail.com (Actively check my mails so please reach out)
 
 <!---
 RIMSHAN-F/RIMSHAN-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
